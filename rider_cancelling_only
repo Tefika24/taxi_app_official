@@ -1,0 +1,13 @@
+2 RiderRequest Rider1 2,3 7,7 8
+5 RiderRequest Rider2 4,4 6,6 5
+8 RiderRequest Rider3 3,2 8,8 15
+11 RiderRequest Rider4 5,5 9,9 20
+14 RiderRequest Rider5 7,7 1,1 25
+17 RiderRequest Rider6 6,3 10,10 30
+20 RiderRequest Rider7 8,8 2,2 8
+
+10 DriverRequest Alpha 1,1 2
+100 DriverRequest Beta 2,3 1
+100 DriverRequest Gamma 4,2 3
+100 DriverRequest Delta 3,4 2
+100 DriverRequest Epsilon 5,5 4
